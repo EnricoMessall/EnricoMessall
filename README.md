@@ -4,7 +4,7 @@
 <h1 align="center">
   Hi im Enrico
 </h1>
-<p align="center">Founder of Arematics and somehow Developer</p>
+<h2 align="center">Founder of Arematics and somehow Developer</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/enrico-messall/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
@@ -12,8 +12,6 @@
   <a href="https://twitter.com/EnricoMessall">
   <img alt="Twitter" src="https://img.shields.io/twitter/follow/EnricoMessall?color=1DA1F2&logo=Twitter&style=for-the-badge"></a>
 </p>
-<br>
-<br>
   
 <h3 align="center">Some skills like</h3>
 <p align="center">
