@@ -1,3 +1,4 @@
+<a href="https://arematics.com" target="_blank" rel="noreferrer noopener">
 <img src="https://arematics.com/assets/banner/arematics-transparent.png" align="center"/>
 
 <h1 align="center">
