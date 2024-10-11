@@ -9,20 +9,28 @@
   <a href="https://www.linkedin.com/in/enrico-messall/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
 </p>
-  
-<h3 align="center">Some skills like</h3>
-<p align="center">
-  <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</p>
 
-<h3 align="center">Currently Learning</h3>
+<h2>My current usage stack</h2>
+<p>Im using these stacks in multiple projects. In my own projects i currently mostly use Kubernetes, Angular, GO, PostgreSQL + Kafka as the main stack of tools.</p>
+<h3>Programming Languages and Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=go,angular,python,js,fastapi,java,spring&perline=20" />
+
+<h3>Frontend Development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=20"/>
+
+<h3>DevOps and Cloud</h3>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,git,github,bash,postman&perline=20"/>
+
+<h3>Databases and Messaging Systems</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,redis&perline=20"/>
+
+<h3>Monitoring and Testing Tools</h3>
+<img src="https://skillicons.dev/icons?i=grafana,selenium,gherkin&perline=20"/>
+
+<h3>Development Tools and IDEs</h3>
+<img src="https://skillicons.dev/icons?i=idea,npm&perline=20"/>
+
+<h2 align="center">Currently Learning</h3>
 <p align="center">
     -
 </p>
