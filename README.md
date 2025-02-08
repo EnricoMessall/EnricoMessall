@@ -11,9 +11,9 @@
 </p>
 
 <h2>My current usage stack</h2>
-<p>Im using these stacks in multiple projects. In my own projects i currently mostly use Kubernetes, Angular, GO, PostgreSQL + Kafka as the main stack of tools.</p>
+<p>Im using these stacks in multiple projects. In my own projects i currently mostly use Kubernetes, Angular/VueJS, GO, PostgreSQL + Kafka as the main stack of tools.</p>
 <h3>Programming Languages and Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=go,angular,python,js,fastapi,java,spring&perline=20" />
+<img src="https://skillicons.dev/icons?i=go,angular,vuejs,python,js,fastapi,java,spring&perline=20" />
 
 <h3>Frontend Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=20"/>
@@ -40,17 +40,3 @@
 💬 Don't ask me about Arematics<br>
 ⚡ Fun fact: Teaching is always learning
 
-<!--
-**EnricoMessall/EnricoMessall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Arematics
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Arematics
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
