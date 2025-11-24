@@ -1,17 +1,10 @@
 <a href="https://arematics.com">
-<img src="https://arematics.com/assets/banner/arematics-transparent.png" align="center"/>
+<img width="1700" height="500" alt="github_banner_enrico" src="https://github.com/user-attachments/assets/0e51565f-062d-455c-a3e3-22c09168e5c2" align="center" style="border-radius: 10px;"/>
+</a>
+<p>&nbsp;</p>
 
-<h1 align="center">
-  Hi im Enrico
-</h1>
-<h2 align="center">Founder of Arematics and somehow Developer</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/enrico-messall/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-</p>
 
-<h2>My current usage stack</h2>
-<p>Im using these stacks in multiple projects. In my own projects i currently mostly use Kubernetes, Angular/VueJS, GO, PostgreSQL + Kafka as the main stack of tools.</p>
+<p>Im using these stacks in multiple projects. In my own projects i currently mostly use Kubernetes, VueJS, GO, PostgreSQL + Kafka as the main stack of tools.</p>
 <h3>Programming Languages and Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=go,angular,vuejs,python,js,fastapi,java,spring&perline=20" />
 
@@ -30,7 +23,15 @@
 <h3>Development Tools and IDEs</h3>
 <img src="https://skillicons.dev/icons?i=idea,npm&perline=20"/>
 
-<h2 align="center">Currently Learning</h3>
+<h2 align="center">Socials</h2>
+
+
+<p>
+  <a href="https://www.linkedin.com/in/enrico-messall/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+<h2 align="center">Currently Learning</h2>
 <p align="center">
     -
 </p>
