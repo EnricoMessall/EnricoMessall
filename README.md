@@ -6,22 +6,22 @@
 
 <p>Im using these stacks in multiple projects. In my own projects i currently mostly use Kubernetes, VueJS, GO, PostgreSQL + Kafka as the main stack of tools.</p>
 <h3>Programming Languages and Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=go,angular,vuejs,python,js,fastapi,java,spring&perline=20" />
+<img src="https://skillicons.dev/icons?i=go,nuxtjs,vuejs,react,python,js,kotlin,ktor&perline=5" />
 
 <h3>Frontend Development</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=20"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&perline=5"/>
 
 <h3>DevOps and Cloud</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,git,github,bash,postman&perline=20"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,git,github,bash,postman,githubactions&perline=5"/>
 
 <h3>Databases and Messaging Systems</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,redis&perline=20"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,redis&perline=5"/>
 
 <h3>Monitoring and Testing Tools</h3>
-<img src="https://skillicons.dev/icons?i=grafana,selenium,gherkin&perline=20"/>
+<img src="https://skillicons.dev/icons?i=grafana,selenium,gherkin&perline=5"/>
 
 <h3>Development Tools and IDEs</h3>
-<img src="https://skillicons.dev/icons?i=idea,npm&perline=20"/>
+<img src="https://skillicons.dev/icons?i=idea,npm,gradle,vite&perline=5"/>
 
 <h2 align="center">Socials</h2>
 
