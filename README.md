@@ -1,5 +1,5 @@
 <a href="https://arematics.com">
-<img width="1700" height="500" alt="github_banner_enrico" src="https://github.com/user-attachments/assets/0e51565f-062d-455c-a3e3-22c09168e5c2" align="center" style="border-radius: 10px;"/>
+<img width="1400" height="400" alt="github_banner_enrico" src="https://hetzner.arematics.com/assets/banner/github_banner_completed.gif" align="center" style="border-radius: 10px;"></img>
 </a>
 <p>&nbsp;</p>
 
